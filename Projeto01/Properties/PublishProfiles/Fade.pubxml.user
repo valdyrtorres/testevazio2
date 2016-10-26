@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\201.73.143.53\wwwroot\Prov</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>09/23/2016 08:53:31</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>09/23/2016 08:53:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>06/06/2016 15:40:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>06/06/2016 10:45:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>06/06/2016 10:42:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/23/2012 14:23:58</publishTime>
+    </File>
+    <File Include="bin/Projeto01.dll">
+      <publishTime>09/23/2016 10:58:47</publishTime>
+    </File>
+    <File Include="bin/Projeto01.pdb">
+      <publishTime>09/23/2016 10:58:47</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 05:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 05:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 05:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>01/28/2015 05:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>01/28/2015 05:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>01/28/2015 05:04:30</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/23/2016 08:53:13</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/23/2016 10:23:42</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.19-build00125.js">
+      <publishTime>09/23/2016 08:53:32</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.19-build00125.min.js">
+      <publishTime>09/23/2016 08:53:32</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.js">
+      <publishTime>09/23/2016 10:23:40</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.js">
+      <publishTime>09/23/2016 10:23:40</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.map">
+      <publishTime>09/23/2016 10:23:40</publishTime>
+    </File>
+    <File Include="scripts/jquery.validate.js">
+      <publishTime>09/23/2016 10:23:41</publishTime>
+    </File>
+    <File Include="scripts/jquery.validate.min.js">
+      <publishTime>09/23/2016 10:23:41</publishTime>
+    </File>
+    <File Include="scripts/jquery.validate.unobtrusive.js">
+      <publishTime>09/23/2016 10:23:42</publishTime>
+    </File>
+    <File Include="scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/23/2016 10:23:42</publishTime>
+    </File>
+    <File Include="Views/Categorias/Index.cshtml">
+      <publishTime>09/23/2016 10:54:39</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/23/2016 08:53:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/23/2016 10:58:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
